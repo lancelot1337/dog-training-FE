@@ -1,0 +1,16 @@
+#creator-box{
+  text-align:center;
+  border:1px solid #ccc;
+  width:300px;
+
+  margin-top:20px;
+  box-shadow:0 0 15px;
+  border-radius:6px;
+  float:left
+}
+.dp-img{
+  width:200%;
+  height:200%;
+  max-width:100px;
+  max-height:100px;
+}

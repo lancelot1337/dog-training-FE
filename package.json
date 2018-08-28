@@ -1,0 +1,22 @@
+{
+  "name": "help",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "bulma-carousel": "^3.0.0",
+    "jquery": "^3.3.1",
+    "prop-types": "^15.6.2",
+    "react": "^16.4.1",
+    "react-dom": "^16.4.1",
+    "react-router": "^4.3.1",
+    "react-router-dom": "^4.3.1",
+    "react-scripts": "1.1.4",
+    "uuid": "^3.3.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build --history-api-fallback",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
